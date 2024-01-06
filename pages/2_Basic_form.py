@@ -2,6 +2,7 @@ import streamlit as st
 
 colors = ['red','orange','green','blue','violet']
 
+st.title("Basic")
 with st.form("form1"):
    st.write("Inside the form")
    my_number = st.slider('Pick a number', 1, 10)

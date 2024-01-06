@@ -2,7 +2,7 @@ import datetime
 import streamlit as st
 
 col1,col2 = st.columns([1,2])
-col1.title('Terms:')
+col1.title('Terms')
 
 location = ['Suburb','Center','Interior']
 size = ['Small','Medium','Large']
