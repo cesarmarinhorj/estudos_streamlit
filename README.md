@@ -20,6 +20,16 @@ pip install streamlite
 
 Rodando:
 ```shell
-streamlite run home.py
+streamlite run Home.py
 ```
 No console aparece a url de acesso: http://localhost:8501
+
+
+## TODO
+- dataframes
+  - pandas
+  - polars
+  - duckdb
+- planilhas
+  - excel
+  - google sheets
